@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import com.boot.repositories.ShipWreckRepository;
 
 import com.boot.model.Shipwreck;
+import com.boot.repository.ShipWreckRepository;
 
 @RestController
 //This would be base url.Its called class level request end point

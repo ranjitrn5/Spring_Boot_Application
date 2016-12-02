@@ -1,4 +1,4 @@
-package com.boot.repositories;
+package com.boot.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
